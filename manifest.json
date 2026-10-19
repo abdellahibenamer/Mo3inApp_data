@@ -1,0 +1,366 @@
+{
+ "dataset_version": "2026.10.1",
+ "generated": "2026-10-16T19:38:11Z",
+ "files": [
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_01_W.ttf",
+   "size": 2189576,
+   "sha256": "9f9b9876aff15f89ce5ef13bf13e81f999f6756c50849ec0a80f71bf0f0d5fe5"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_02_W.ttf",
+   "size": 2074172,
+   "sha256": "f69250a3f8eb1bcec681f89c217251d1781f34c9eb06f2d0e2e5b925275d0554"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_03_W.ttf",
+   "size": 2105500,
+   "sha256": "e6ec7d692ca073e62424bb3a708cb0410386c0f561e107f83f5be0b10286217b"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_04_W.ttf",
+   "size": 2059560,
+   "sha256": "c67343751d997b2d0297b0f858f90ff7eb3f82d6e082e6dc6fc1714ef282f337"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_05_W.ttf",
+   "size": 2053916,
+   "sha256": "72d1abec2b95bf86b15f9bc71026c57d0869455c70eb351b06622a3b3e5c946b"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_06_W.ttf",
+   "size": 2045824,
+   "sha256": "dc232e349083fe6278efb68e3561bc9a6d5d92248d962a9d17abd688b0aeb214"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_07_W.ttf",
+   "size": 2033964,
+   "sha256": "dafb901efb47414322cca50f9babb3245837d1dfa83248274c14cf180441edd5"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_08_W.ttf",
+   "size": 2035720,
+   "sha256": "22fe9240fdb3db2cd9e3ee02c02c14428fcf79694c2bd5c90d2a8fd33ce6bd84"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_09_W.ttf",
+   "size": 2031708,
+   "sha256": "50d10fa2a295b7db9e2197e7e76011fcd50b7b3766a05deaaaf1caf21e5985b9"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_10_W.ttf",
+   "size": 2088688,
+   "sha256": "5992fcac9f25bfa74091fe3a9e93376cba1cce84aa8787e18605a97edb7dddbc"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_11_W.ttf",
+   "size": 2053048,
+   "sha256": "b281a46c060405ce4deb4d4c652a9ded9c70424905c561ea3c1e69aaaddf2f60"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_12_W.ttf",
+   "size": 1994256,
+   "sha256": "570cd05af8cf8183cbfe547f557af3bede39916a73b30e731b95ec80c0c4512f"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_13_W.ttf",
+   "size": 2158732,
+   "sha256": "e1a7c1c9832e625564e6f39d1cd2cb9b618279c11d5e6d52818d627b5a47493d"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_14_W.ttf",
+   "size": 2058320,
+   "sha256": "9a0da8043a4cbe3a78daa7ae09e2eeaefbef327ab08e07a66bafd57581283a25"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_15_W.ttf",
+   "size": 2152684,
+   "sha256": "72af31c96c2591d31cea211d7a7dac3c5a1505dea300892b33fb02f84f5bd6af"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_16_W.ttf",
+   "size": 2009576,
+   "sha256": "e661b984b8105747ed86835f36fa50fe90f8c5d0b976b83f8054211f9e2c7f6f"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_17_W.ttf",
+   "size": 2043372,
+   "sha256": "4f0ed3a01956c715209286ef98a1446d0f6daee353bb846b18a5f92d86beea34"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_18_W.ttf",
+   "size": 2080072,
+   "sha256": "8b342ff8ef53dcf8835ab2cd13e971e24de2bf221f6401cff4f8bde3b2b1b65d"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_19_W.ttf",
+   "size": 1899360,
+   "sha256": "96a812844d65f37592c89a2c87a779a544673181ac3bdabf4deca2cf5e42d86e"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_20_W.ttf",
+   "size": 1978288,
+   "sha256": "c07c9f712165d326979158234207bac928acbe28d8eae7afcbd7e8da1d90f202"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_21_W.ttf",
+   "size": 1990244,
+   "sha256": "15f68ea57b39b88ae6e5e7f75237522e53408d31ce51ade7e8d503506a3696f8"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_22_W.ttf",
+   "size": 2028660,
+   "sha256": "50e3de010bf2dbb3399c1e1bf04a065248b8383d37b0d3d609e140b3419bf9d4"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_23_W.ttf",
+   "size": 1946144,
+   "sha256": "037171a3f40cfc158130c49affb29615a61fc809a1f3aac9e6c02bdfca52c0df"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_24_W.ttf",
+   "size": 1966952,
+   "sha256": "144ab8a1ab7c2a4913922c9f0576257814eaeb34dc1083254c5ad5eebdcb59ce"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_25_W.ttf",
+   "size": 2044316,
+   "sha256": "c8264bc8e4fbb3c7c4fb95fe44fb23c272c36eab0d5fc8fc68009c86c786fbbb"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_26_W.ttf",
+   "size": 2034532,
+   "sha256": "b2745d719c958fa7ccdf481d239f55ceb665bf7a1d5b97e99d5027e00f8ebffb"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_27_W.ttf",
+   "size": 1972800,
+   "sha256": "34cd9e6f2cab056b7669d0154d7835c775efd80bf41e17f683c53219dc2389eb"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_28_W.ttf",
+   "size": 1966200,
+   "sha256": "5aab937b73fd5b396f5c853877e5c9946bad7ec0a54fd27f73e001e5afa7e46f"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_29_W.ttf",
+   "size": 2094980,
+   "sha256": "80699e95d4aceed1c650a10caa3f527b55f35a1a5fa65e35fcc8c62409351ba7"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_30_W.ttf",
+   "size": 2018076,
+   "sha256": "020256cf34bfdf814637e280d3d099cd454defe39a8f40c3f27812f0dcadaf4b"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_31_W.ttf",
+   "size": 2109952,
+   "sha256": "2b9f137574e6ff441572379e836c3c71fc05087c0f35148bc003f9ac4b011c5c"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_32_W.ttf",
+   "size": 1969376,
+   "sha256": "47ad368c1717a19f93f8f94505e423edd5cbc3a510318e010f2dac6a4cd21214"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_33_W.ttf",
+   "size": 1996312,
+   "sha256": "41a541d2fb5ae86342dd811fe844db11394f665ef75ff099d7aae4b8dbe0fb92"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_34_W.ttf",
+   "size": 2052596,
+   "sha256": "fe3b6566f48a1c210c0406ddfbde719d8732d63082ff5bf0bb0f9ee19e43e148"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_35_W.ttf",
+   "size": 2205308,
+   "sha256": "73ccd2340454d36d06987b0a7267da2998cdaaddc5c69ac7d91c58711c40b007"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_36_W.ttf",
+   "size": 2041944,
+   "sha256": "6298993cc5eabf1a4a91e001decd25ae8115a82b397b4ef0ac64877f6aa03e2a"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_37_W.ttf",
+   "size": 2018056,
+   "sha256": "5a65ce885ef199b0f61d544655804d2858db61cddde326e0865c1be4176dc572"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_38_W.ttf",
+   "size": 2135884,
+   "sha256": "843408644cde7cb566f4695458d5bc0f9bd9e64a4de170a27788a0aad18d4aa2"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_39_W.ttf",
+   "size": 2018788,
+   "sha256": "e4a10f9990004dd7be83f851faf290b19b1170b3ae1f8065b5cbee81a5928235"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_40_W.ttf",
+   "size": 2068304,
+   "sha256": "96591dece8e79843e20224bfc43cd60d4e22f31d010843637956cc89b1976a4f"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_41_W.ttf",
+   "size": 2296456,
+   "sha256": "13ab2609a6d41a0ccd1d2df5995e620315a980c259793c0d08761cc9b84edea4"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_42_W.ttf",
+   "size": 2162256,
+   "sha256": "748f6fb3b3bd6046fb1bc04489bf06842a6c130a428f5e8459e1052986637051"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_43_W.ttf",
+   "size": 2012396,
+   "sha256": "ab8de072116e3f744b0e47bf165abd621d7c0488458b9b0b520152af2b49e3be"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_44_W.ttf",
+   "size": 2031912,
+   "sha256": "45ff1cc1856bc8e1bcedbf80d6c802195a95a48fed2859bf723c5aad22120339"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_45_W.ttf",
+   "size": 2120992,
+   "sha256": "3e82b941f50507d04f2e9c73dc5c4e18710ca9aa0f0146c6afcac38e3a478f43"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_46_W.ttf",
+   "size": 1103284,
+   "sha256": "d4fecf50fb79917ab93f7a8637132e7a8597416bbae77b08beca0be60131738a"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_Hafs_47_W.ttf",
+   "size": 1828488,
+   "sha256": "f6a18866e65260cf9366f1184a152a30b1bcde5d4c2b120d60471f1acef550c9"
+  },
+  {
+   "path": "fonts/qcf4/QCF4_QBSML.ttf",
+   "size": 1602176,
+   "sha256": "5ecd75d72ad54df78f3d3bb402c82cd294e769f7a8b3110b2548685327726345"
+  },
+  {
+   "path": "fonts/qcf4/README.txt",
+   "size": 373,
+   "sha256": "969061f435f2e98bfe0529a45ae7fda91e767e77b0a601663643ffd6968437d0"
+  },
+  {
+   "path": "fonts/qcf4/SHA256.txt",
+   "size": 4124,
+   "sha256": "7902703d8e069efe3158e9411c27169728b861387ece3ebf4e4ca2fc1ea057bc"
+  },
+  {
+   "path": "fonts/ui/Amiri-Bold.ttf",
+   "size": 413480,
+   "sha256": "cfccb794268e7d573d857e6d6a67f89cf8a053e8ffd85dfa0c8ec1bb36fc4827"
+  },
+  {
+   "path": "fonts/ui/Amiri-Regular.ttf",
+   "size": 431116,
+   "sha256": "ab391c4147d054c48976e98322ad0eefe1427aa0e0502a12a4c75d80a70cfcd7"
+  },
+  {
+   "path": "fonts/ui/AmiriQuran-Regular.ttf",
+   "size": 136920,
+   "sha256": "e2a47644762d16bdfb6d33e0d8db8c6ff30beae84150ef5a705316bbd829455c"
+  },
+  {
+   "path": "fonts/ui/OFL-Amiri.txt",
+   "size": 4389,
+   "sha256": "72de68e5954f4fdd24702292ef5a32f003ca960ec9330dc86e5eefb5dffb9b22"
+  },
+  {
+   "path": "fonts/ui/OFL-AmiriQuran.txt",
+   "size": 4392,
+   "sha256": "b32e3b24e2a943b8acbf6ab8d5499bfed737d5176091b7341a8c1e7fbcdeb0fa"
+  },
+  {
+   "path": "fonts/ui/OFL-ScheherazadeNew.txt",
+   "size": 4495,
+   "sha256": "5b9fd21ce2377fc542debebd9edfe1c48f2d3525e78a2a8abdba4a0ec3280163"
+  },
+  {
+   "path": "fonts/ui/ScheherazadeNew-Bold.ttf",
+   "size": 593472,
+   "sha256": "91363517a63dbc7448b5814226d33d845b26b32a461cd159ea0b3f23c7effd2d"
+  },
+  {
+   "path": "fonts/ui/ScheherazadeNew-Regular.ttf",
+   "size": 331504,
+   "sha256": "794bac8dc9e83d1d620bc471ea694f5f31d0965ce8006490a79dfc51a2d283b3"
+  },
+  {
+   "path": "meta/chapters.json",
+   "size": 36957,
+   "sha256": "c88715549794694b5c4cec6a101e170ac4c4b3b077a82241e049ae4eed32d0e6"
+  },
+  {
+   "path": "meta/hizb_rub.json",
+   "size": 27497,
+   "sha256": "c7aec914a49316e61e5ea6be73b1d38d4d6b5636c76d3d788a057346f546f8e8"
+  },
+  {
+   "path": "meta/info.json",
+   "size": 381,
+   "sha256": "0ce7aeeb05953e70c9d580cb34d967ea43ae9f8a498ebb8d8cf8c28ecc18b68f"
+  },
+  {
+   "path": "meta/juz.json",
+   "size": 2043,
+   "sha256": "5d4b4e1e18aa5cd7482e76c14e2470fda808857d3cc4102e9c65c65f4fae115d"
+  },
+  {
+   "path": "meta/pages.json",
+   "size": 58119,
+   "sha256": "7754daae76b045488182207c91087a33fac2a471000208e6ef926a161f40cfa3"
+  },
+  {
+   "path": "meta/sajdas.json",
+   "size": 831,
+   "sha256": "49f51ea942bcfe475419a0c6377aacb7bfe9b7c81df8aad943e6ea3acf213791"
+  },
+  {
+   "path": "mushaf/README.txt",
+   "size": 350,
+   "sha256": "e4879f53aa9ecb28c34dd555b04f3095d2ad58c876e930a4ba1427659e5bd885"
+  },
+  {
+   "path": "mushaf/qcf4_pages.json",
+   "size": 8312040,
+   "sha256": "401677be1945f7924223544d9d10cd7f06ef5c5399ea2490cc3a9dc6fc299d91"
+  },
+  {
+   "path": "tafsir/ar-tafseer-al-saddi.json",
+   "size": 5992513,
+   "sha256": "a7a636ade368a73ecdde7972b41ebfe6ef5a76196dec9933dc808d0ddececa8e"
+  },
+  {
+   "path": "tafsir/ar-tafsir-al-jalalayn.json",
+   "size": 2804586,
+   "sha256": "e66f788911e687ade8e0c693a364fc07c2b4bdbd992597180251dd7f65324d33"
+  },
+  {
+   "path": "tafsir/ar-tafsir-al-mukhtasar.json",
+   "size": 1971284,
+   "sha256": "a3d608c541ba145d9b002bf9f85194da888994e95765916aac90c4b4a2c0b3ef"
+  },
+  {
+   "path": "tafsir/ar-tafsir-muyassar.json",
+   "size": 2863975,
+   "sha256": "7ebc248087fdf63df502f834b7db72f2282b9c1310698de347d84fec017c8f5a"
+  },
+  {
+   "path": "tafsir/en-tafsir-al-mukhtasar.json",
+   "size": 1806286,
+   "sha256": "993eeade8673691de6d6c2136f057db8c976fd7df391805eb1f16c8b1b75bca7"
+  },
+  {
+   "path": "tafsir/french-mokhtasar.json",
+   "size": 1958897,
+   "sha256": "28dab8ef974b06e90aead16ad83b7fa1d2bc87268d7dcc94a0f9103fc04f783f"
+  }
+ ]
+}

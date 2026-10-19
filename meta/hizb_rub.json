@@ -1,0 +1,2162 @@
+[
+ {
+  "rub": 1,
+  "hizb": 1,
+  "quarter": 1,
+  "juz": 1,
+  "surah": 1,
+  "ayah": 1,
+  "page": 1
+ },
+ {
+  "rub": 2,
+  "hizb": 1,
+  "quarter": 2,
+  "juz": 1,
+  "surah": 2,
+  "ayah": 26,
+  "page": 5
+ },
+ {
+  "rub": 3,
+  "hizb": 1,
+  "quarter": 3,
+  "juz": 1,
+  "surah": 2,
+  "ayah": 44,
+  "page": 7
+ },
+ {
+  "rub": 4,
+  "hizb": 1,
+  "quarter": 4,
+  "juz": 1,
+  "surah": 2,
+  "ayah": 60,
+  "page": 9
+ },
+ {
+  "rub": 5,
+  "hizb": 2,
+  "quarter": 1,
+  "juz": 1,
+  "surah": 2,
+  "ayah": 75,
+  "page": 11
+ },
+ {
+  "rub": 6,
+  "hizb": 2,
+  "quarter": 2,
+  "juz": 1,
+  "surah": 2,
+  "ayah": 92,
+  "page": 14
+ },
+ {
+  "rub": 7,
+  "hizb": 2,
+  "quarter": 3,
+  "juz": 1,
+  "surah": 2,
+  "ayah": 106,
+  "page": 17
+ },
+ {
+  "rub": 8,
+  "hizb": 2,
+  "quarter": 4,
+  "juz": 1,
+  "surah": 2,
+  "ayah": 124,
+  "page": 19
+ },
+ {
+  "rub": 9,
+  "hizb": 3,
+  "quarter": 1,
+  "juz": 2,
+  "surah": 2,
+  "ayah": 142,
+  "page": 22
+ },
+ {
+  "rub": 10,
+  "hizb": 3,
+  "quarter": 2,
+  "juz": 2,
+  "surah": 2,
+  "ayah": 158,
+  "page": 24
+ },
+ {
+  "rub": 11,
+  "hizb": 3,
+  "quarter": 3,
+  "juz": 2,
+  "surah": 2,
+  "ayah": 177,
+  "page": 27
+ },
+ {
+  "rub": 12,
+  "hizb": 3,
+  "quarter": 4,
+  "juz": 2,
+  "surah": 2,
+  "ayah": 189,
+  "page": 29
+ },
+ {
+  "rub": 13,
+  "hizb": 4,
+  "quarter": 1,
+  "juz": 2,
+  "surah": 2,
+  "ayah": 203,
+  "page": 32
+ },
+ {
+  "rub": 14,
+  "hizb": 4,
+  "quarter": 2,
+  "juz": 2,
+  "surah": 2,
+  "ayah": 219,
+  "page": 34
+ },
+ {
+  "rub": 15,
+  "hizb": 4,
+  "quarter": 3,
+  "juz": 2,
+  "surah": 2,
+  "ayah": 233,
+  "page": 37
+ },
+ {
+  "rub": 16,
+  "hizb": 4,
+  "quarter": 4,
+  "juz": 2,
+  "surah": 2,
+  "ayah": 243,
+  "page": 39
+ },
+ {
+  "rub": 17,
+  "hizb": 5,
+  "quarter": 1,
+  "juz": 3,
+  "surah": 2,
+  "ayah": 253,
+  "page": 42
+ },
+ {
+  "rub": 18,
+  "hizb": 5,
+  "quarter": 2,
+  "juz": 3,
+  "surah": 2,
+  "ayah": 263,
+  "page": 44
+ },
+ {
+  "rub": 19,
+  "hizb": 5,
+  "quarter": 3,
+  "juz": 3,
+  "surah": 2,
+  "ayah": 272,
+  "page": 46
+ },
+ {
+  "rub": 20,
+  "hizb": 5,
+  "quarter": 4,
+  "juz": 3,
+  "surah": 2,
+  "ayah": 283,
+  "page": 49
+ },
+ {
+  "rub": 21,
+  "hizb": 6,
+  "quarter": 1,
+  "juz": 3,
+  "surah": 3,
+  "ayah": 15,
+  "page": 51
+ },
+ {
+  "rub": 22,
+  "hizb": 6,
+  "quarter": 2,
+  "juz": 3,
+  "surah": 3,
+  "ayah": 33,
+  "page": 54
+ },
+ {
+  "rub": 23,
+  "hizb": 6,
+  "quarter": 3,
+  "juz": 3,
+  "surah": 3,
+  "ayah": 52,
+  "page": 56
+ },
+ {
+  "rub": 24,
+  "hizb": 6,
+  "quarter": 4,
+  "juz": 3,
+  "surah": 3,
+  "ayah": 75,
+  "page": 59
+ },
+ {
+  "rub": 25,
+  "hizb": 7,
+  "quarter": 1,
+  "juz": 4,
+  "surah": 3,
+  "ayah": 93,
+  "page": 62
+ },
+ {
+  "rub": 26,
+  "hizb": 7,
+  "quarter": 2,
+  "juz": 4,
+  "surah": 3,
+  "ayah": 113,
+  "page": 64
+ },
+ {
+  "rub": 27,
+  "hizb": 7,
+  "quarter": 3,
+  "juz": 4,
+  "surah": 3,
+  "ayah": 133,
+  "page": 67
+ },
+ {
+  "rub": 28,
+  "hizb": 7,
+  "quarter": 4,
+  "juz": 4,
+  "surah": 3,
+  "ayah": 153,
+  "page": 69
+ },
+ {
+  "rub": 29,
+  "hizb": 8,
+  "quarter": 1,
+  "juz": 4,
+  "surah": 3,
+  "ayah": 171,
+  "page": 72
+ },
+ {
+  "rub": 30,
+  "hizb": 8,
+  "quarter": 2,
+  "juz": 4,
+  "surah": 3,
+  "ayah": 186,
+  "page": 74
+ },
+ {
+  "rub": 31,
+  "hizb": 8,
+  "quarter": 3,
+  "juz": 4,
+  "surah": 4,
+  "ayah": 1,
+  "page": 77
+ },
+ {
+  "rub": 32,
+  "hizb": 8,
+  "quarter": 4,
+  "juz": 4,
+  "surah": 4,
+  "ayah": 12,
+  "page": 79
+ },
+ {
+  "rub": 33,
+  "hizb": 9,
+  "quarter": 1,
+  "juz": 5,
+  "surah": 4,
+  "ayah": 24,
+  "page": 82
+ },
+ {
+  "rub": 34,
+  "hizb": 9,
+  "quarter": 2,
+  "juz": 5,
+  "surah": 4,
+  "ayah": 36,
+  "page": 84
+ },
+ {
+  "rub": 35,
+  "hizb": 9,
+  "quarter": 3,
+  "juz": 5,
+  "surah": 4,
+  "ayah": 58,
+  "page": 87
+ },
+ {
+  "rub": 36,
+  "hizb": 9,
+  "quarter": 4,
+  "juz": 5,
+  "surah": 4,
+  "ayah": 74,
+  "page": 89
+ },
+ {
+  "rub": 37,
+  "hizb": 10,
+  "quarter": 1,
+  "juz": 5,
+  "surah": 4,
+  "ayah": 88,
+  "page": 92
+ },
+ {
+  "rub": 38,
+  "hizb": 10,
+  "quarter": 2,
+  "juz": 5,
+  "surah": 4,
+  "ayah": 100,
+  "page": 94
+ },
+ {
+  "rub": 39,
+  "hizb": 10,
+  "quarter": 3,
+  "juz": 5,
+  "surah": 4,
+  "ayah": 114,
+  "page": 97
+ },
+ {
+  "rub": 40,
+  "hizb": 10,
+  "quarter": 4,
+  "juz": 5,
+  "surah": 4,
+  "ayah": 135,
+  "page": 100
+ },
+ {
+  "rub": 41,
+  "hizb": 11,
+  "quarter": 1,
+  "juz": 6,
+  "surah": 4,
+  "ayah": 148,
+  "page": 102
+ },
+ {
+  "rub": 42,
+  "hizb": 11,
+  "quarter": 2,
+  "juz": 6,
+  "surah": 4,
+  "ayah": 163,
+  "page": 104
+ },
+ {
+  "rub": 43,
+  "hizb": 11,
+  "quarter": 3,
+  "juz": 6,
+  "surah": 5,
+  "ayah": 1,
+  "page": 106
+ },
+ {
+  "rub": 44,
+  "hizb": 11,
+  "quarter": 4,
+  "juz": 6,
+  "surah": 5,
+  "ayah": 12,
+  "page": 109
+ },
+ {
+  "rub": 45,
+  "hizb": 12,
+  "quarter": 1,
+  "juz": 6,
+  "surah": 5,
+  "ayah": 27,
+  "page": 112
+ },
+ {
+  "rub": 46,
+  "hizb": 12,
+  "quarter": 2,
+  "juz": 6,
+  "surah": 5,
+  "ayah": 41,
+  "page": 114
+ },
+ {
+  "rub": 47,
+  "hizb": 12,
+  "quarter": 3,
+  "juz": 6,
+  "surah": 5,
+  "ayah": 51,
+  "page": 117
+ },
+ {
+  "rub": 48,
+  "hizb": 12,
+  "quarter": 4,
+  "juz": 6,
+  "surah": 5,
+  "ayah": 67,
+  "page": 119
+ },
+ {
+  "rub": 49,
+  "hizb": 13,
+  "quarter": 1,
+  "juz": 7,
+  "surah": 5,
+  "ayah": 82,
+  "page": 121
+ },
+ {
+  "rub": 50,
+  "hizb": 13,
+  "quarter": 2,
+  "juz": 7,
+  "surah": 5,
+  "ayah": 97,
+  "page": 124
+ },
+ {
+  "rub": 51,
+  "hizb": 13,
+  "quarter": 3,
+  "juz": 7,
+  "surah": 5,
+  "ayah": 109,
+  "page": 126
+ },
+ {
+  "rub": 52,
+  "hizb": 13,
+  "quarter": 4,
+  "juz": 7,
+  "surah": 6,
+  "ayah": 13,
+  "page": 129
+ },
+ {
+  "rub": 53,
+  "hizb": 14,
+  "quarter": 1,
+  "juz": 7,
+  "surah": 6,
+  "ayah": 36,
+  "page": 132
+ },
+ {
+  "rub": 54,
+  "hizb": 14,
+  "quarter": 2,
+  "juz": 7,
+  "surah": 6,
+  "ayah": 59,
+  "page": 134
+ },
+ {
+  "rub": 55,
+  "hizb": 14,
+  "quarter": 3,
+  "juz": 7,
+  "surah": 6,
+  "ayah": 74,
+  "page": 137
+ },
+ {
+  "rub": 56,
+  "hizb": 14,
+  "quarter": 4,
+  "juz": 7,
+  "surah": 6,
+  "ayah": 95,
+  "page": 140
+ },
+ {
+  "rub": 57,
+  "hizb": 15,
+  "quarter": 1,
+  "juz": 8,
+  "surah": 6,
+  "ayah": 111,
+  "page": 142
+ },
+ {
+  "rub": 58,
+  "hizb": 15,
+  "quarter": 2,
+  "juz": 8,
+  "surah": 6,
+  "ayah": 127,
+  "page": 144
+ },
+ {
+  "rub": 59,
+  "hizb": 15,
+  "quarter": 3,
+  "juz": 8,
+  "surah": 6,
+  "ayah": 141,
+  "page": 146
+ },
+ {
+  "rub": 60,
+  "hizb": 15,
+  "quarter": 4,
+  "juz": 8,
+  "surah": 6,
+  "ayah": 151,
+  "page": 148
+ },
+ {
+  "rub": 61,
+  "hizb": 16,
+  "quarter": 1,
+  "juz": 8,
+  "surah": 7,
+  "ayah": 1,
+  "page": 151
+ },
+ {
+  "rub": 62,
+  "hizb": 16,
+  "quarter": 2,
+  "juz": 8,
+  "surah": 7,
+  "ayah": 31,
+  "page": 154
+ },
+ {
+  "rub": 63,
+  "hizb": 16,
+  "quarter": 3,
+  "juz": 8,
+  "surah": 7,
+  "ayah": 47,
+  "page": 156
+ },
+ {
+  "rub": 64,
+  "hizb": 16,
+  "quarter": 4,
+  "juz": 8,
+  "surah": 7,
+  "ayah": 65,
+  "page": 158
+ },
+ {
+  "rub": 65,
+  "hizb": 17,
+  "quarter": 1,
+  "juz": 9,
+  "surah": 7,
+  "ayah": 88,
+  "page": 162
+ },
+ {
+  "rub": 66,
+  "hizb": 17,
+  "quarter": 2,
+  "juz": 9,
+  "surah": 7,
+  "ayah": 117,
+  "page": 164
+ },
+ {
+  "rub": 67,
+  "hizb": 17,
+  "quarter": 3,
+  "juz": 9,
+  "surah": 7,
+  "ayah": 142,
+  "page": 167
+ },
+ {
+  "rub": 68,
+  "hizb": 17,
+  "quarter": 4,
+  "juz": 9,
+  "surah": 7,
+  "ayah": 156,
+  "page": 170
+ },
+ {
+  "rub": 69,
+  "hizb": 18,
+  "quarter": 1,
+  "juz": 9,
+  "surah": 7,
+  "ayah": 171,
+  "page": 173
+ },
+ {
+  "rub": 70,
+  "hizb": 18,
+  "quarter": 2,
+  "juz": 9,
+  "surah": 7,
+  "ayah": 189,
+  "page": 175
+ },
+ {
+  "rub": 71,
+  "hizb": 18,
+  "quarter": 3,
+  "juz": 9,
+  "surah": 8,
+  "ayah": 1,
+  "page": 177
+ },
+ {
+  "rub": 72,
+  "hizb": 18,
+  "quarter": 4,
+  "juz": 9,
+  "surah": 8,
+  "ayah": 22,
+  "page": 179
+ },
+ {
+  "rub": 73,
+  "hizb": 19,
+  "quarter": 1,
+  "juz": 10,
+  "surah": 8,
+  "ayah": 41,
+  "page": 182
+ },
+ {
+  "rub": 74,
+  "hizb": 19,
+  "quarter": 2,
+  "juz": 10,
+  "surah": 8,
+  "ayah": 61,
+  "page": 184
+ },
+ {
+  "rub": 75,
+  "hizb": 19,
+  "quarter": 3,
+  "juz": 10,
+  "surah": 9,
+  "ayah": 1,
+  "page": 187
+ },
+ {
+  "rub": 76,
+  "hizb": 19,
+  "quarter": 4,
+  "juz": 10,
+  "surah": 9,
+  "ayah": 19,
+  "page": 189
+ },
+ {
+  "rub": 77,
+  "hizb": 20,
+  "quarter": 1,
+  "juz": 10,
+  "surah": 9,
+  "ayah": 34,
+  "page": 192
+ },
+ {
+  "rub": 78,
+  "hizb": 20,
+  "quarter": 2,
+  "juz": 10,
+  "surah": 9,
+  "ayah": 46,
+  "page": 194
+ },
+ {
+  "rub": 79,
+  "hizb": 20,
+  "quarter": 3,
+  "juz": 10,
+  "surah": 9,
+  "ayah": 60,
+  "page": 196
+ },
+ {
+  "rub": 80,
+  "hizb": 20,
+  "quarter": 4,
+  "juz": 10,
+  "surah": 9,
+  "ayah": 75,
+  "page": 199
+ },
+ {
+  "rub": 81,
+  "hizb": 21,
+  "quarter": 1,
+  "juz": 11,
+  "surah": 9,
+  "ayah": 93,
+  "page": 201
+ },
+ {
+  "rub": 82,
+  "hizb": 21,
+  "quarter": 2,
+  "juz": 11,
+  "surah": 9,
+  "ayah": 111,
+  "page": 204
+ },
+ {
+  "rub": 83,
+  "hizb": 21,
+  "quarter": 3,
+  "juz": 11,
+  "surah": 9,
+  "ayah": 122,
+  "page": 206
+ },
+ {
+  "rub": 84,
+  "hizb": 21,
+  "quarter": 4,
+  "juz": 11,
+  "surah": 10,
+  "ayah": 11,
+  "page": 209
+ },
+ {
+  "rub": 85,
+  "hizb": 22,
+  "quarter": 1,
+  "juz": 11,
+  "surah": 10,
+  "ayah": 26,
+  "page": 212
+ },
+ {
+  "rub": 86,
+  "hizb": 22,
+  "quarter": 2,
+  "juz": 11,
+  "surah": 10,
+  "ayah": 53,
+  "page": 214
+ },
+ {
+  "rub": 87,
+  "hizb": 22,
+  "quarter": 3,
+  "juz": 11,
+  "surah": 10,
+  "ayah": 71,
+  "page": 217
+ },
+ {
+  "rub": 88,
+  "hizb": 22,
+  "quarter": 4,
+  "juz": 11,
+  "surah": 10,
+  "ayah": 90,
+  "page": 219
+ },
+ {
+  "rub": 89,
+  "hizb": 23,
+  "quarter": 1,
+  "juz": 12,
+  "surah": 11,
+  "ayah": 6,
+  "page": 222
+ },
+ {
+  "rub": 90,
+  "hizb": 23,
+  "quarter": 2,
+  "juz": 12,
+  "surah": 11,
+  "ayah": 24,
+  "page": 224
+ },
+ {
+  "rub": 91,
+  "hizb": 23,
+  "quarter": 3,
+  "juz": 12,
+  "surah": 11,
+  "ayah": 41,
+  "page": 226
+ },
+ {
+  "rub": 92,
+  "hizb": 23,
+  "quarter": 4,
+  "juz": 12,
+  "surah": 11,
+  "ayah": 61,
+  "page": 228
+ },
+ {
+  "rub": 93,
+  "hizb": 24,
+  "quarter": 1,
+  "juz": 12,
+  "surah": 11,
+  "ayah": 84,
+  "page": 231
+ },
+ {
+  "rub": 94,
+  "hizb": 24,
+  "quarter": 2,
+  "juz": 12,
+  "surah": 11,
+  "ayah": 108,
+  "page": 233
+ },
+ {
+  "rub": 95,
+  "hizb": 24,
+  "quarter": 3,
+  "juz": 12,
+  "surah": 12,
+  "ayah": 7,
+  "page": 236
+ },
+ {
+  "rub": 96,
+  "hizb": 24,
+  "quarter": 4,
+  "juz": 12,
+  "surah": 12,
+  "ayah": 30,
+  "page": 238
+ },
+ {
+  "rub": 97,
+  "hizb": 25,
+  "quarter": 1,
+  "juz": 13,
+  "surah": 12,
+  "ayah": 53,
+  "page": 242
+ },
+ {
+  "rub": 98,
+  "hizb": 25,
+  "quarter": 2,
+  "juz": 13,
+  "surah": 12,
+  "ayah": 77,
+  "page": 244
+ },
+ {
+  "rub": 99,
+  "hizb": 25,
+  "quarter": 3,
+  "juz": 13,
+  "surah": 12,
+  "ayah": 101,
+  "page": 247
+ },
+ {
+  "rub": 100,
+  "hizb": 25,
+  "quarter": 4,
+  "juz": 13,
+  "surah": 13,
+  "ayah": 5,
+  "page": 249
+ },
+ {
+  "rub": 101,
+  "hizb": 26,
+  "quarter": 1,
+  "juz": 13,
+  "surah": 13,
+  "ayah": 19,
+  "page": 252
+ },
+ {
+  "rub": 102,
+  "hizb": 26,
+  "quarter": 2,
+  "juz": 13,
+  "surah": 13,
+  "ayah": 35,
+  "page": 254
+ },
+ {
+  "rub": 103,
+  "hizb": 26,
+  "quarter": 3,
+  "juz": 13,
+  "surah": 14,
+  "ayah": 10,
+  "page": 256
+ },
+ {
+  "rub": 104,
+  "hizb": 26,
+  "quarter": 4,
+  "juz": 13,
+  "surah": 14,
+  "ayah": 28,
+  "page": 259
+ },
+ {
+  "rub": 105,
+  "hizb": 27,
+  "quarter": 1,
+  "juz": 14,
+  "surah": 15,
+  "ayah": 1,
+  "page": 262
+ },
+ {
+  "rub": 106,
+  "hizb": 27,
+  "quarter": 2,
+  "juz": 14,
+  "surah": 15,
+  "ayah": 50,
+  "page": 264
+ },
+ {
+  "rub": 107,
+  "hizb": 27,
+  "quarter": 3,
+  "juz": 14,
+  "surah": 16,
+  "ayah": 1,
+  "page": 267
+ },
+ {
+  "rub": 108,
+  "hizb": 27,
+  "quarter": 4,
+  "juz": 14,
+  "surah": 16,
+  "ayah": 30,
+  "page": 270
+ },
+ {
+  "rub": 109,
+  "hizb": 28,
+  "quarter": 1,
+  "juz": 14,
+  "surah": 16,
+  "ayah": 51,
+  "page": 272
+ },
+ {
+  "rub": 110,
+  "hizb": 28,
+  "quarter": 2,
+  "juz": 14,
+  "surah": 16,
+  "ayah": 75,
+  "page": 275
+ },
+ {
+  "rub": 111,
+  "hizb": 28,
+  "quarter": 3,
+  "juz": 14,
+  "surah": 16,
+  "ayah": 90,
+  "page": 277
+ },
+ {
+  "rub": 112,
+  "hizb": 28,
+  "quarter": 4,
+  "juz": 14,
+  "surah": 16,
+  "ayah": 111,
+  "page": 280
+ },
+ {
+  "rub": 113,
+  "hizb": 29,
+  "quarter": 1,
+  "juz": 15,
+  "surah": 17,
+  "ayah": 1,
+  "page": 282
+ },
+ {
+  "rub": 114,
+  "hizb": 29,
+  "quarter": 2,
+  "juz": 15,
+  "surah": 17,
+  "ayah": 23,
+  "page": 284
+ },
+ {
+  "rub": 115,
+  "hizb": 29,
+  "quarter": 3,
+  "juz": 15,
+  "surah": 17,
+  "ayah": 50,
+  "page": 287
+ },
+ {
+  "rub": 116,
+  "hizb": 29,
+  "quarter": 4,
+  "juz": 15,
+  "surah": 17,
+  "ayah": 70,
+  "page": 289
+ },
+ {
+  "rub": 117,
+  "hizb": 30,
+  "quarter": 1,
+  "juz": 15,
+  "surah": 17,
+  "ayah": 99,
+  "page": 292
+ },
+ {
+  "rub": 118,
+  "hizb": 30,
+  "quarter": 2,
+  "juz": 15,
+  "surah": 18,
+  "ayah": 17,
+  "page": 295
+ },
+ {
+  "rub": 119,
+  "hizb": 30,
+  "quarter": 3,
+  "juz": 15,
+  "surah": 18,
+  "ayah": 32,
+  "page": 297
+ },
+ {
+  "rub": 120,
+  "hizb": 30,
+  "quarter": 4,
+  "juz": 15,
+  "surah": 18,
+  "ayah": 51,
+  "page": 299
+ },
+ {
+  "rub": 121,
+  "hizb": 31,
+  "quarter": 1,
+  "juz": 16,
+  "surah": 18,
+  "ayah": 75,
+  "page": 302
+ },
+ {
+  "rub": 122,
+  "hizb": 31,
+  "quarter": 2,
+  "juz": 16,
+  "surah": 18,
+  "ayah": 99,
+  "page": 304
+ },
+ {
+  "rub": 123,
+  "hizb": 31,
+  "quarter": 3,
+  "juz": 16,
+  "surah": 19,
+  "ayah": 22,
+  "page": 306
+ },
+ {
+  "rub": 124,
+  "hizb": 31,
+  "quarter": 4,
+  "juz": 16,
+  "surah": 19,
+  "ayah": 59,
+  "page": 309
+ },
+ {
+  "rub": 125,
+  "hizb": 32,
+  "quarter": 1,
+  "juz": 16,
+  "surah": 20,
+  "ayah": 1,
+  "page": 312
+ },
+ {
+  "rub": 126,
+  "hizb": 32,
+  "quarter": 2,
+  "juz": 16,
+  "surah": 20,
+  "ayah": 55,
+  "page": 315
+ },
+ {
+  "rub": 127,
+  "hizb": 32,
+  "quarter": 3,
+  "juz": 16,
+  "surah": 20,
+  "ayah": 83,
+  "page": 317
+ },
+ {
+  "rub": 128,
+  "hizb": 32,
+  "quarter": 4,
+  "juz": 16,
+  "surah": 20,
+  "ayah": 111,
+  "page": 319
+ },
+ {
+  "rub": 129,
+  "hizb": 33,
+  "quarter": 1,
+  "juz": 17,
+  "surah": 21,
+  "ayah": 1,
+  "page": 322
+ },
+ {
+  "rub": 130,
+  "hizb": 33,
+  "quarter": 2,
+  "juz": 17,
+  "surah": 21,
+  "ayah": 29,
+  "page": 324
+ },
+ {
+  "rub": 131,
+  "hizb": 33,
+  "quarter": 3,
+  "juz": 17,
+  "surah": 21,
+  "ayah": 51,
+  "page": 326
+ },
+ {
+  "rub": 132,
+  "hizb": 33,
+  "quarter": 4,
+  "juz": 17,
+  "surah": 21,
+  "ayah": 83,
+  "page": 329
+ },
+ {
+  "rub": 133,
+  "hizb": 34,
+  "quarter": 1,
+  "juz": 17,
+  "surah": 22,
+  "ayah": 1,
+  "page": 332
+ },
+ {
+  "rub": 134,
+  "hizb": 34,
+  "quarter": 2,
+  "juz": 17,
+  "surah": 22,
+  "ayah": 19,
+  "page": 334
+ },
+ {
+  "rub": 135,
+  "hizb": 34,
+  "quarter": 3,
+  "juz": 17,
+  "surah": 22,
+  "ayah": 38,
+  "page": 336
+ },
+ {
+  "rub": 136,
+  "hizb": 34,
+  "quarter": 4,
+  "juz": 17,
+  "surah": 22,
+  "ayah": 60,
+  "page": 339
+ },
+ {
+  "rub": 137,
+  "hizb": 35,
+  "quarter": 1,
+  "juz": 18,
+  "surah": 23,
+  "ayah": 1,
+  "page": 342
+ },
+ {
+  "rub": 138,
+  "hizb": 35,
+  "quarter": 2,
+  "juz": 18,
+  "surah": 23,
+  "ayah": 36,
+  "page": 344
+ },
+ {
+  "rub": 139,
+  "hizb": 35,
+  "quarter": 3,
+  "juz": 18,
+  "surah": 23,
+  "ayah": 75,
+  "page": 347
+ },
+ {
+  "rub": 140,
+  "hizb": 35,
+  "quarter": 4,
+  "juz": 18,
+  "surah": 24,
+  "ayah": 1,
+  "page": 350
+ },
+ {
+  "rub": 141,
+  "hizb": 36,
+  "quarter": 1,
+  "juz": 18,
+  "surah": 24,
+  "ayah": 21,
+  "page": 352
+ },
+ {
+  "rub": 142,
+  "hizb": 36,
+  "quarter": 2,
+  "juz": 18,
+  "surah": 24,
+  "ayah": 35,
+  "page": 354
+ },
+ {
+  "rub": 143,
+  "hizb": 36,
+  "quarter": 3,
+  "juz": 18,
+  "surah": 24,
+  "ayah": 53,
+  "page": 356
+ },
+ {
+  "rub": 144,
+  "hizb": 36,
+  "quarter": 4,
+  "juz": 18,
+  "surah": 25,
+  "ayah": 1,
+  "page": 359
+ },
+ {
+  "rub": 145,
+  "hizb": 37,
+  "quarter": 1,
+  "juz": 19,
+  "surah": 25,
+  "ayah": 21,
+  "page": 362
+ },
+ {
+  "rub": 146,
+  "hizb": 37,
+  "quarter": 2,
+  "juz": 19,
+  "surah": 25,
+  "ayah": 53,
+  "page": 364
+ },
+ {
+  "rub": 147,
+  "hizb": 37,
+  "quarter": 3,
+  "juz": 19,
+  "surah": 26,
+  "ayah": 1,
+  "page": 367
+ },
+ {
+  "rub": 148,
+  "hizb": 37,
+  "quarter": 4,
+  "juz": 19,
+  "surah": 26,
+  "ayah": 52,
+  "page": 369
+ },
+ {
+  "rub": 149,
+  "hizb": 38,
+  "quarter": 1,
+  "juz": 19,
+  "surah": 26,
+  "ayah": 111,
+  "page": 371
+ },
+ {
+  "rub": 150,
+  "hizb": 38,
+  "quarter": 2,
+  "juz": 19,
+  "surah": 26,
+  "ayah": 181,
+  "page": 374
+ },
+ {
+  "rub": 151,
+  "hizb": 38,
+  "quarter": 3,
+  "juz": 19,
+  "surah": 27,
+  "ayah": 1,
+  "page": 377
+ },
+ {
+  "rub": 152,
+  "hizb": 38,
+  "quarter": 4,
+  "juz": 19,
+  "surah": 27,
+  "ayah": 27,
+  "page": 379
+ },
+ {
+  "rub": 153,
+  "hizb": 39,
+  "quarter": 1,
+  "juz": 20,
+  "surah": 27,
+  "ayah": 56,
+  "page": 382
+ },
+ {
+  "rub": 154,
+  "hizb": 39,
+  "quarter": 2,
+  "juz": 20,
+  "surah": 27,
+  "ayah": 82,
+  "page": 384
+ },
+ {
+  "rub": 155,
+  "hizb": 39,
+  "quarter": 3,
+  "juz": 20,
+  "surah": 28,
+  "ayah": 12,
+  "page": 386
+ },
+ {
+  "rub": 156,
+  "hizb": 39,
+  "quarter": 4,
+  "juz": 20,
+  "surah": 28,
+  "ayah": 29,
+  "page": 389
+ },
+ {
+  "rub": 157,
+  "hizb": 40,
+  "quarter": 1,
+  "juz": 20,
+  "surah": 28,
+  "ayah": 51,
+  "page": 392
+ },
+ {
+  "rub": 158,
+  "hizb": 40,
+  "quarter": 2,
+  "juz": 20,
+  "surah": 28,
+  "ayah": 76,
+  "page": 394
+ },
+ {
+  "rub": 159,
+  "hizb": 40,
+  "quarter": 3,
+  "juz": 20,
+  "surah": 29,
+  "ayah": 1,
+  "page": 396
+ },
+ {
+  "rub": 160,
+  "hizb": 40,
+  "quarter": 4,
+  "juz": 20,
+  "surah": 29,
+  "ayah": 26,
+  "page": 399
+ },
+ {
+  "rub": 161,
+  "hizb": 41,
+  "quarter": 1,
+  "juz": 21,
+  "surah": 29,
+  "ayah": 46,
+  "page": 402
+ },
+ {
+  "rub": 162,
+  "hizb": 41,
+  "quarter": 2,
+  "juz": 21,
+  "surah": 30,
+  "ayah": 1,
+  "page": 404
+ },
+ {
+  "rub": 163,
+  "hizb": 41,
+  "quarter": 3,
+  "juz": 21,
+  "surah": 30,
+  "ayah": 31,
+  "page": 407
+ },
+ {
+  "rub": 164,
+  "hizb": 41,
+  "quarter": 4,
+  "juz": 21,
+  "surah": 30,
+  "ayah": 54,
+  "page": 410
+ },
+ {
+  "rub": 165,
+  "hizb": 42,
+  "quarter": 1,
+  "juz": 21,
+  "surah": 31,
+  "ayah": 22,
+  "page": 413
+ },
+ {
+  "rub": 166,
+  "hizb": 42,
+  "quarter": 2,
+  "juz": 21,
+  "surah": 32,
+  "ayah": 11,
+  "page": 415
+ },
+ {
+  "rub": 167,
+  "hizb": 42,
+  "quarter": 3,
+  "juz": 21,
+  "surah": 33,
+  "ayah": 1,
+  "page": 418
+ },
+ {
+  "rub": 168,
+  "hizb": 42,
+  "quarter": 4,
+  "juz": 21,
+  "surah": 33,
+  "ayah": 18,
+  "page": 420
+ },
+ {
+  "rub": 169,
+  "hizb": 43,
+  "quarter": 1,
+  "juz": 22,
+  "surah": 33,
+  "ayah": 31,
+  "page": 422
+ },
+ {
+  "rub": 170,
+  "hizb": 43,
+  "quarter": 2,
+  "juz": 22,
+  "surah": 33,
+  "ayah": 51,
+  "page": 425
+ },
+ {
+  "rub": 171,
+  "hizb": 43,
+  "quarter": 3,
+  "juz": 22,
+  "surah": 33,
+  "ayah": 60,
+  "page": 426
+ },
+ {
+  "rub": 172,
+  "hizb": 43,
+  "quarter": 4,
+  "juz": 22,
+  "surah": 34,
+  "ayah": 10,
+  "page": 429
+ },
+ {
+  "rub": 173,
+  "hizb": 44,
+  "quarter": 1,
+  "juz": 22,
+  "surah": 34,
+  "ayah": 24,
+  "page": 431
+ },
+ {
+  "rub": 174,
+  "hizb": 44,
+  "quarter": 2,
+  "juz": 22,
+  "surah": 34,
+  "ayah": 46,
+  "page": 433
+ },
+ {
+  "rub": 175,
+  "hizb": 44,
+  "quarter": 3,
+  "juz": 22,
+  "surah": 35,
+  "ayah": 15,
+  "page": 436
+ },
+ {
+  "rub": 176,
+  "hizb": 44,
+  "quarter": 4,
+  "juz": 22,
+  "surah": 35,
+  "ayah": 41,
+  "page": 439
+ },
+ {
+  "rub": 177,
+  "hizb": 45,
+  "quarter": 1,
+  "juz": 23,
+  "surah": 36,
+  "ayah": 28,
+  "page": 442
+ },
+ {
+  "rub": 178,
+  "hizb": 45,
+  "quarter": 2,
+  "juz": 23,
+  "surah": 36,
+  "ayah": 60,
+  "page": 444
+ },
+ {
+  "rub": 179,
+  "hizb": 45,
+  "quarter": 3,
+  "juz": 23,
+  "surah": 37,
+  "ayah": 22,
+  "page": 446
+ },
+ {
+  "rub": 180,
+  "hizb": 45,
+  "quarter": 4,
+  "juz": 23,
+  "surah": 37,
+  "ayah": 83,
+  "page": 449
+ },
+ {
+  "rub": 181,
+  "hizb": 46,
+  "quarter": 1,
+  "juz": 23,
+  "surah": 37,
+  "ayah": 145,
+  "page": 451
+ },
+ {
+  "rub": 182,
+  "hizb": 46,
+  "quarter": 2,
+  "juz": 23,
+  "surah": 38,
+  "ayah": 21,
+  "page": 454
+ },
+ {
+  "rub": 183,
+  "hizb": 46,
+  "quarter": 3,
+  "juz": 23,
+  "surah": 38,
+  "ayah": 52,
+  "page": 456
+ },
+ {
+  "rub": 184,
+  "hizb": 46,
+  "quarter": 4,
+  "juz": 23,
+  "surah": 39,
+  "ayah": 8,
+  "page": 459
+ },
+ {
+  "rub": 185,
+  "hizb": 47,
+  "quarter": 1,
+  "juz": 24,
+  "surah": 39,
+  "ayah": 32,
+  "page": 462
+ },
+ {
+  "rub": 186,
+  "hizb": 47,
+  "quarter": 2,
+  "juz": 24,
+  "surah": 39,
+  "ayah": 53,
+  "page": 464
+ },
+ {
+  "rub": 187,
+  "hizb": 47,
+  "quarter": 3,
+  "juz": 24,
+  "surah": 40,
+  "ayah": 1,
+  "page": 467
+ },
+ {
+  "rub": 188,
+  "hizb": 47,
+  "quarter": 4,
+  "juz": 24,
+  "surah": 40,
+  "ayah": 21,
+  "page": 469
+ },
+ {
+  "rub": 189,
+  "hizb": 48,
+  "quarter": 1,
+  "juz": 24,
+  "surah": 40,
+  "ayah": 41,
+  "page": 472
+ },
+ {
+  "rub": 190,
+  "hizb": 48,
+  "quarter": 2,
+  "juz": 24,
+  "surah": 40,
+  "ayah": 66,
+  "page": 474
+ },
+ {
+  "rub": 191,
+  "hizb": 48,
+  "quarter": 3,
+  "juz": 24,
+  "surah": 41,
+  "ayah": 9,
+  "page": 477
+ },
+ {
+  "rub": 192,
+  "hizb": 48,
+  "quarter": 4,
+  "juz": 24,
+  "surah": 41,
+  "ayah": 25,
+  "page": 479
+ },
+ {
+  "rub": 193,
+  "hizb": 49,
+  "quarter": 1,
+  "juz": 25,
+  "surah": 41,
+  "ayah": 47,
+  "page": 482
+ },
+ {
+  "rub": 194,
+  "hizb": 49,
+  "quarter": 2,
+  "juz": 25,
+  "surah": 42,
+  "ayah": 13,
+  "page": 484
+ },
+ {
+  "rub": 195,
+  "hizb": 49,
+  "quarter": 3,
+  "juz": 25,
+  "surah": 42,
+  "ayah": 27,
+  "page": 486
+ },
+ {
+  "rub": 196,
+  "hizb": 49,
+  "quarter": 4,
+  "juz": 25,
+  "surah": 42,
+  "ayah": 51,
+  "page": 488
+ },
+ {
+  "rub": 197,
+  "hizb": 50,
+  "quarter": 1,
+  "juz": 25,
+  "surah": 43,
+  "ayah": 24,
+  "page": 491
+ },
+ {
+  "rub": 198,
+  "hizb": 50,
+  "quarter": 2,
+  "juz": 25,
+  "surah": 43,
+  "ayah": 57,
+  "page": 493
+ },
+ {
+  "rub": 199,
+  "hizb": 50,
+  "quarter": 3,
+  "juz": 25,
+  "surah": 44,
+  "ayah": 17,
+  "page": 496
+ },
+ {
+  "rub": 200,
+  "hizb": 50,
+  "quarter": 4,
+  "juz": 25,
+  "surah": 45,
+  "ayah": 12,
+  "page": 499
+ },
+ {
+  "rub": 201,
+  "hizb": 51,
+  "quarter": 1,
+  "juz": 26,
+  "surah": 46,
+  "ayah": 1,
+  "page": 502
+ },
+ {
+  "rub": 202,
+  "hizb": 51,
+  "quarter": 2,
+  "juz": 26,
+  "surah": 46,
+  "ayah": 21,
+  "page": 505
+ },
+ {
+  "rub": 203,
+  "hizb": 51,
+  "quarter": 3,
+  "juz": 26,
+  "surah": 47,
+  "ayah": 10,
+  "page": 507
+ },
+ {
+  "rub": 204,
+  "hizb": 51,
+  "quarter": 4,
+  "juz": 26,
+  "surah": 47,
+  "ayah": 33,
+  "page": 510
+ },
+ {
+  "rub": 205,
+  "hizb": 52,
+  "quarter": 1,
+  "juz": 26,
+  "surah": 48,
+  "ayah": 18,
+  "page": 513
+ },
+ {
+  "rub": 206,
+  "hizb": 52,
+  "quarter": 2,
+  "juz": 26,
+  "surah": 49,
+  "ayah": 1,
+  "page": 515
+ },
+ {
+  "rub": 207,
+  "hizb": 52,
+  "quarter": 3,
+  "juz": 26,
+  "surah": 49,
+  "ayah": 14,
+  "page": 517
+ },
+ {
+  "rub": 208,
+  "hizb": 52,
+  "quarter": 4,
+  "juz": 26,
+  "surah": 50,
+  "ayah": 27,
+  "page": 519
+ },
+ {
+  "rub": 209,
+  "hizb": 53,
+  "quarter": 1,
+  "juz": 27,
+  "surah": 51,
+  "ayah": 31,
+  "page": 522
+ },
+ {
+  "rub": 210,
+  "hizb": 53,
+  "quarter": 2,
+  "juz": 27,
+  "surah": 52,
+  "ayah": 24,
+  "page": 524
+ },
+ {
+  "rub": 211,
+  "hizb": 53,
+  "quarter": 3,
+  "juz": 27,
+  "surah": 53,
+  "ayah": 26,
+  "page": 526
+ },
+ {
+  "rub": 212,
+  "hizb": 53,
+  "quarter": 4,
+  "juz": 27,
+  "surah": 54,
+  "ayah": 9,
+  "page": 529
+ },
+ {
+  "rub": 213,
+  "hizb": 54,
+  "quarter": 1,
+  "juz": 27,
+  "surah": 55,
+  "ayah": 1,
+  "page": 531
+ },
+ {
+  "rub": 214,
+  "hizb": 54,
+  "quarter": 2,
+  "juz": 27,
+  "surah": 56,
+  "ayah": 1,
+  "page": 534
+ },
+ {
+  "rub": 215,
+  "hizb": 54,
+  "quarter": 3,
+  "juz": 27,
+  "surah": 56,
+  "ayah": 75,
+  "page": 536
+ },
+ {
+  "rub": 216,
+  "hizb": 54,
+  "quarter": 4,
+  "juz": 27,
+  "surah": 57,
+  "ayah": 16,
+  "page": 539
+ },
+ {
+  "rub": 217,
+  "hizb": 55,
+  "quarter": 1,
+  "juz": 28,
+  "surah": 58,
+  "ayah": 1,
+  "page": 542
+ },
+ {
+  "rub": 218,
+  "hizb": 55,
+  "quarter": 2,
+  "juz": 28,
+  "surah": 58,
+  "ayah": 14,
+  "page": 544
+ },
+ {
+  "rub": 219,
+  "hizb": 55,
+  "quarter": 3,
+  "juz": 28,
+  "surah": 59,
+  "ayah": 11,
+  "page": 547
+ },
+ {
+  "rub": 220,
+  "hizb": 55,
+  "quarter": 4,
+  "juz": 28,
+  "surah": 60,
+  "ayah": 7,
+  "page": 550
+ },
+ {
+  "rub": 221,
+  "hizb": 56,
+  "quarter": 1,
+  "juz": 28,
+  "surah": 62,
+  "ayah": 1,
+  "page": 553
+ },
+ {
+  "rub": 222,
+  "hizb": 56,
+  "quarter": 2,
+  "juz": 28,
+  "surah": 63,
+  "ayah": 4,
+  "page": 554
+ },
+ {
+  "rub": 223,
+  "hizb": 56,
+  "quarter": 3,
+  "juz": 28,
+  "surah": 65,
+  "ayah": 1,
+  "page": 558
+ },
+ {
+  "rub": 224,
+  "hizb": 56,
+  "quarter": 4,
+  "juz": 28,
+  "surah": 66,
+  "ayah": 1,
+  "page": 560
+ },
+ {
+  "rub": 225,
+  "hizb": 57,
+  "quarter": 1,
+  "juz": 29,
+  "surah": 67,
+  "ayah": 1,
+  "page": 562
+ },
+ {
+  "rub": 226,
+  "hizb": 57,
+  "quarter": 2,
+  "juz": 29,
+  "surah": 68,
+  "ayah": 1,
+  "page": 564
+ },
+ {
+  "rub": 227,
+  "hizb": 57,
+  "quarter": 3,
+  "juz": 29,
+  "surah": 69,
+  "ayah": 1,
+  "page": 566
+ },
+ {
+  "rub": 228,
+  "hizb": 57,
+  "quarter": 4,
+  "juz": 29,
+  "surah": 70,
+  "ayah": 19,
+  "page": 569
+ },
+ {
+  "rub": 229,
+  "hizb": 58,
+  "quarter": 1,
+  "juz": 29,
+  "surah": 72,
+  "ayah": 1,
+  "page": 572
+ },
+ {
+  "rub": 230,
+  "hizb": 58,
+  "quarter": 2,
+  "juz": 29,
+  "surah": 73,
+  "ayah": 20,
+  "page": 575
+ },
+ {
+  "rub": 231,
+  "hizb": 58,
+  "quarter": 3,
+  "juz": 29,
+  "surah": 75,
+  "ayah": 1,
+  "page": 577
+ },
+ {
+  "rub": 232,
+  "hizb": 58,
+  "quarter": 4,
+  "juz": 29,
+  "surah": 76,
+  "ayah": 19,
+  "page": 579
+ },
+ {
+  "rub": 233,
+  "hizb": 59,
+  "quarter": 1,
+  "juz": 30,
+  "surah": 78,
+  "ayah": 1,
+  "page": 582
+ },
+ {
+  "rub": 234,
+  "hizb": 59,
+  "quarter": 2,
+  "juz": 30,
+  "surah": 80,
+  "ayah": 1,
+  "page": 585
+ },
+ {
+  "rub": 235,
+  "hizb": 59,
+  "quarter": 3,
+  "juz": 30,
+  "surah": 82,
+  "ayah": 1,
+  "page": 587
+ },
+ {
+  "rub": 236,
+  "hizb": 59,
+  "quarter": 4,
+  "juz": 30,
+  "surah": 84,
+  "ayah": 1,
+  "page": 589
+ },
+ {
+  "rub": 237,
+  "hizb": 60,
+  "quarter": 1,
+  "juz": 30,
+  "surah": 87,
+  "ayah": 1,
+  "page": 591
+ },
+ {
+  "rub": 238,
+  "hizb": 60,
+  "quarter": 2,
+  "juz": 30,
+  "surah": 90,
+  "ayah": 1,
+  "page": 594
+ },
+ {
+  "rub": 239,
+  "hizb": 60,
+  "quarter": 3,
+  "juz": 30,
+  "surah": 94,
+  "ayah": 1,
+  "page": 596
+ },
+ {
+  "rub": 240,
+  "hizb": 60,
+  "quarter": 4,
+  "juz": 30,
+  "surah": 100,
+  "ayah": 9,
+  "page": 600
+ }
+]

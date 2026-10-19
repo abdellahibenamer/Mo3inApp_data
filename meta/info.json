@@ -1,0 +1,12 @@
+{
+ "riwaya": "hafs",
+ "surahs": 114,
+ "ayahs": 6236,
+ "pages": 604,
+ "juz": 30,
+ "hizb": 60,
+ "rub": 240,
+ "source": "quran-meta@7.0.0 (MIT) https://github.com/quran-center/quran-meta",
+ "note": "أرقام الصفحات حسب مصحف المدينة (604 صفحة)",
+ "pagination": "qcf4-1441 (طبعة مصحف المدينة 1441هـ كما في خطوط QCF4)"
+}
